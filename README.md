@@ -62,7 +62,7 @@ Jika Anda punya ide, fitur tambahan, atau menemukan bug, silakan buat **pull req
 1️⃣ **Clone repositori:**
 
 ```sh
-  git clone https://github.com/fifovalle/UI-Tombol-Versi-45.0.git
+  git clone https://github.com/fifovalle/UI-TOMBOL-VERSI-45.0.git
 ```
 
 2️⃣ **Buka file `index.html` di browser favorit Anda.**
